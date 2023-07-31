@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- <CUSTOMIZE> -->
-    <color name="foreground">#8800AE</color>
-    <color name="foregroundHint">#8B3D0355</color>
-    <color name="foregroundNotification">#1A1A1A</color>
+    <color name="cvagblue">#FF198CCD</color>
+    <color name="foreground">@color/cvagblue</color>
+    <color name="foregroundHint">#8B074970</color>
+    <color name="backgroundHover">#D4E7F1</color>
 </resources>

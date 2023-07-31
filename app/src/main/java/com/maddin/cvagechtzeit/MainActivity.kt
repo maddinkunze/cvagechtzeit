@@ -1,9 +1,7 @@
-package com.maddin.echtzeytexample
+package com.maddin.cvagechtzeit
 
 class MainActivity : com.maddin.echtzeyt.EchtzeytActivity() {
     init {
-        // <CUSTOMIZE>
-        // Set the api that should be used. You can create your own api, see com.maddin.transportapi for more details.
-        setTransportAPI(com.maddin.transportapi.impl.ExampleAPI())
+        setTransportAPI(com.maddin.transportapi.impl.germany.VMS("Chemnitz"))
     }
 }
