@@ -1,4 +1,4 @@
-package com.maddin.echtzeytexample
+package com.maddin.echtzeytexample // <CUSTOMIZE>
 
 class MainActivity : com.maddin.echtzeyt.EchtzeytActivity() {
     init {
