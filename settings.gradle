@@ -1,4 +1,4 @@
-rootProject.name = "Echtzeyt Example" // <CUSTOMIZE>
+rootProject.name = "CVAG Echtzeit"
 
 include ':app'
 include ':echtzeyt'

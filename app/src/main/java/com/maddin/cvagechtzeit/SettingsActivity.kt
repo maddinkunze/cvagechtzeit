@@ -1,3 +1,3 @@
-package com.maddin.echtzeytexample
+package com.maddin.cvagechtzeit
 
 class SettingsActivity : com.maddin.echtzeyt.SettingsActivity()

@@ -8,11 +8,11 @@ android {
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId "com.maddin.echtzeytexample" // <CUSTOMIZE>
+        applicationId "com.maddin.cvagechtzeit"
         minSdkVersion 16
         targetSdkVersion 33
-        versionCode 1       // <CUSTOMIZE>
-        versionName "1.0.0" // <CUSTOMIZE>
+        versionCode 10
+        versionName "2.0.1"
 
         vectorDrawables {
             useSupportLibrary true
