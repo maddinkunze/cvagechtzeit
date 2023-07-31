@@ -4,4 +4,5 @@
     <color name="foreground">#8800AE</color>
     <color name="foregroundHint">#8B3D0355</color>
     <color name="foregroundNotification">#1A1A1A</color>
+    <color name="test">#002200</color>
 </resources>
