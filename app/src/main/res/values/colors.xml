@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <CUSTOMIZE> -->
+    <color name="foreground">#8800AE</color>
+    <color name="foregroundHint">#8B3D0355</color>
+    <color name="foregroundNotification">#1A1A1A</color>
+</resources>

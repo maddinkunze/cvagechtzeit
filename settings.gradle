@@ -1,0 +1,5 @@
+rootProject.name = "Echtzeyt Example" // <CUSTOMIZE>
+
+include ':app'
+include ':echtzeyt'
+include ':transportapi'

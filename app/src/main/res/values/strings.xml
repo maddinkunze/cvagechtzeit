@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- <CUSTOMIZE> -->
+    <string name="appName" translatable="false">Echtzeyt Example</string>
+    <string name="contactEmail" translatable="false">echtzeyt@example.com</string>
+    <string name="urlSupportMe" translatable="false">https://github.com/maddinkunze/echtzeyt</string>
+    <string name="urlNotification" translatable="false" />
+</resources>
