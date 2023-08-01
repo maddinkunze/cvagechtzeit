@@ -1,3 +1,6 @@
 [submodule "transportapi"]
 	path = transportapi
 	url = https://github.com/maddinkunze/transportapi
+[submodule "echtzeyt"]
+	path = echtzeyt
+	url = https://github.com/maddinkunze/echtzeyt
