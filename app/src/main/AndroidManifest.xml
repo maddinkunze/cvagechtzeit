@@ -24,6 +24,19 @@
             android:name=".SettingsActivity"
             android:exported="false" />
 
+        <receiver
+            android:label="Example Widget"
+            android:name="com.maddin.echtzeyt.EchtzeytWidget"
+            android:exported="true" >
+            <intent-filter >
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_echtzeyt_provider" />
+        </receiver>
+
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
