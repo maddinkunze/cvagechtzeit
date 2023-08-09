@@ -1,18 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<<<<<<< HEAD
     <string name="appName" translatable="false">CVAG Echtzeit</string>
     <string name="contactEmail" translatable="false">support@martinkunze.com</string>
     <string name="urlSupportMe" translatable="false">https://martinkunze.com/apps/cvagechtzeit/support</string>
     <string name="urlNotification" translatable="false">https://martinkunze.com/apps/cvagechtzeit/notification</string>
-=======
-    <!-- <CUSTOMIZE> -->
-    <string name="appName" translatable="false">Echtzeyt Example</string>
-    <string name="contactEmail" translatable="false">echtzeyt@example.com</string>
-    <string name="urlSupportMe" translatable="false">https://github.com/maddinkunze/echtzeyt</string>
-    <string name="urlNotification" translatable="false" />
 
     <!-- Only customize if you know what you're doing -->
-    <string name="widgetClassConfigure" translatable="false">com.maddin.echtzeytexample.WidgetConfigureActivity</string>
->>>>>>> a1598e2c230859fd8d8a1c0ea7c52caac31f472d
+    <string name="widgetClassConfigure" translatable="false">com.maddin.cvagechtzeit.WidgetConfigureActivity</string>
 </resources>
