@@ -1,7 +1,5 @@
 package com.maddin.echtzeytexample
 
-import com.maddin.echtzeyt.EchtzeytWidget
-
 // <CUSTOMIZE>
 
 val TRANSPORT_API = com.maddin.transportapi.impl.ExampleAPI() // <CUSTOMIZE>
