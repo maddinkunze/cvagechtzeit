@@ -6,6 +6,8 @@
     <string name="urlSupportMe" translatable="false">https://github.com/maddinkunze/echtzeyt</string>
     <string name="urlNotification" translatable="false" />
 
+    <string name="widgetName" translatable="false">Echtzeyt Example Widget</string>
+
     <!-- Only customize if you know what you're doing -->
     <string name="widgetClassConfigure" translatable="false">com.maddin.echtzeytexample.WidgetConfigureActivity</string>
 </resources>
