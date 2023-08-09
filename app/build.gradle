@@ -11,7 +11,7 @@ android {
         applicationId "com.maddin.cvagechtzeit"
         minSdkVersion 16
         targetSdkVersion 33
-        versionCode 10
+        versionCode 11
         versionName "2.1.0"
 
         vectorDrawables {

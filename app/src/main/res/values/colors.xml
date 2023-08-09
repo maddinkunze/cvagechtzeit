@@ -4,4 +4,6 @@
     <color name="foreground">@color/cvagblue</color>
     <color name="foregroundHint">#8B074970</color>
     <color name="backgroundHover">#D4E7F1</color>
+    <color name="errorWidget">#FFB7A8</color>
+    <color name="successWidget">#B4FF94</color>
 </resources>

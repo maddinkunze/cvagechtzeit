@@ -5,7 +5,7 @@
     <string name="urlSupportMe" translatable="false">https://martinkunze.com/apps/cvagechtzeit/support</string>
     <string name="urlNotification" translatable="false">https://martinkunze.com/apps/cvagechtzeit/notification</string>
 
-    <string name="widgetName" translatable="false">Echtzeyt Example Widget</string>
+    <string name="widgetName" translatable="false">CVAG Echtzeit Widget</string>
 
     <!-- Only customize if you know what you're doing -->
     <string name="widgetClassConfigure" translatable="false">com.maddin.cvagechtzeit.WidgetConfigureActivity</string>
