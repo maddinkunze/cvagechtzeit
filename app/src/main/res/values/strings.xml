@@ -5,4 +5,7 @@
     <string name="contactEmail" translatable="false">echtzeyt@example.com</string>
     <string name="urlSupportMe" translatable="false">https://github.com/maddinkunze/echtzeyt</string>
     <string name="urlNotification" translatable="false" />
+
+    <!-- Only customize if you know what you're doing -->
+    <string name="widgetClassConfigure" translatable="false">com.maddin.echtzeytexample.WidgetConfigureActivity</string>
 </resources>
