@@ -23,6 +23,9 @@
         <activity
             android:name=".SettingsActivity"
             android:exported="false" />
+        <activity
+            android:name=".MapActivity"
+            android:exported="false" />
 
         <receiver
             android:label="@string/widgetName"
