@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "com.maddin.cvagechtzeit"
-        minSdkVersion 16
+        minSdkVersion 14
         targetSdkVersion compileSdk
         versionCode 11
         versionName "2.2.0"
