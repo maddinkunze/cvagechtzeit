@@ -5,6 +5,11 @@
     <string name="urlSupportMe" translatable="false">https://martinkunze.com/apps/cvagechtzeit/support</string>
     <string name="urlNotification" translatable="false">https://martinkunze.com/apps/cvagechtzeit/notification</string>
 
+    <string name="licenseAdditionalImplementation"><ul>
+        <li><a href="https://www.govdata.de/daten/-/details/api-fahrplanauskunft-vvo">API</a> of the <a href="https://www.vms.de/">VMS</a> (provided by <a href="https://www.vvo-online.de/">VVO</a>)</li>\n
+        <li>C-Bahn Icon from <a href="https://www.city-bahn.de/">City-Bahn</a></li>
+    </ul></string>
+
     <string name="widgetName" translatable="false">CVAG Echtzeit Widget</string>
 
     <!-- Only customize if you know what you're doing -->

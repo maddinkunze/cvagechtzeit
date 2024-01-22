@@ -7,4 +7,7 @@
     <color name="backgroundButtonSecondHover">#DDEDF6</color>
     <color name="errorWidget">#FFB7A8</color>
     <color name="successWidget">#B4FF94</color>
+
+    <color name="lineBackgroundChemnitzBahn">#C91432</color>
+    <color name="lineForegroundChemnitzBahn">@color/lineForegroundTram</color>
 </resources>

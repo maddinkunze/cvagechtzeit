@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="licenseAdditionalImplementation"><ul>
+        <li><a href="https://www.govdata.de/daten/-/details/api-fahrplanauskunft-vvo">API</a> des <a href="https://www.vms.de/">VMS</a> (bereitgestellt durch den <a href="https://www.vvo-online.de/">VVO</a>)</li>\n
+        <li>C-Bahn Logo von <a href="https://www.city-bahn.de/">City-Bahn</a></li>
+    </ul></string>
+</resources>
