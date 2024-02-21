@@ -3,6 +3,7 @@
     <color name="cvagblue">#FF198CCD</color>
     <color name="foreground">@color/cvagblue</color>
     <color name="foregroundHint">#8B074970</color>
+    <color name="backgroundDivider">#601374AD</color>
     <color name="backgroundButtonHover">#D4E7F1</color>
     <color name="backgroundButtonSecondHover">#DDEDF6</color>
     <color name="errorWidget">#FFB7A8</color>

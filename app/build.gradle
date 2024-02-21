@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId "com.maddin.cvagechtzeit"
-        minSdkVersion 14
+        minSdk 14
         targetSdkVersion compileSdk
         versionCode 11
         versionName "2.2.0"
@@ -22,13 +22,15 @@ android {
 
     buildTypes {
         release {
-            minifyEnabled true
-            shrinkResources true
+            minifyEnabled false
+            shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             multiDexKeepProguard = file('multidex-config.pro')
             resValue "string", "appVersion", "${defaultConfig.versionName}"
         }
         debug {
+            minifyEnabled false
+            shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             multiDexKeepProguard = file('multidex-config.pro')
             resValue "string", "appVersion", "${defaultConfig.versionName}-debug"
@@ -54,8 +56,8 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib:${kotlin_version}"
     implementation 'androidx.core:core-ktx:1.12.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
-    implementation 'com.android.support:multidex:1.0.3'
-    implementation 'androidx.startup:startup-runtime:1.1.0-rc01'
+    implementation 'androidx.multidex:multidex:2.0.1'
+    implementation 'androidx.startup:startup-runtime:1.1.1'
     implementation project(path: ':echtzeyt')
     implementation project(path: ':transportapi')
     coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:2.0.4'
