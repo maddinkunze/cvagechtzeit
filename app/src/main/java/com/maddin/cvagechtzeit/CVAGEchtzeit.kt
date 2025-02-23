@@ -10,10 +10,12 @@ import com.maddin.transportapi.impl.germany.VMS
 import com.maddin.transportapi.impl.germany.VMSandCVAG
 
 class CVAGEchtzeit : EchtzeytApplication() {
+
     override fun configure() {
         //ECHTZEYT_CONFIGURATION.load(VMS("Chemnitz"))
         //ECHTZEYT_CONFIGURATION.load(CVAG())
         ECHTZEYT_CONFIGURATION.load(VMSandCVAG())
+        ECHTZEYT_CONFIGURATION.activityMap = MapActivity::class.java
     }
 
     override fun addMOTTypeBadges() {
