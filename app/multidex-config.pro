@@ -1,0 +1,15 @@
+-keep class androidx.startup.AppInitializer
+-keep class * extends androidx.startup.Initializer
+-keep class kotlin.collections.EmptyList
+-keep class androidx.lifecycle.*
+-keep class androidx.arch.core.executor.DefaultTaskExecutor
+-keep class com.maddin.echtzeyt.*
+-keep class com.maddin.transportapi.*
+-keep class androidx.core.content.ContextCompat
+-keep class androidx.vectordrawable.graphics.drawable.VectorDrawableCompat
+-keep class androidx.collection.ArrayMap
+-keep class * extends androidx.collection.ArrayMap
+-keep class androidx.activity.contextaware.ContextAwareHelper
+-keep class androidx.core.view.MenuHostHelper
+-keep class androidx.activity.ComponentActivity
+-keep class androidx.fragment.app.*
