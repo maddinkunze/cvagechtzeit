@@ -15,7 +15,7 @@ class CVAGEchtzeit : EchtzeytApplication() {
         //ECHTZEYT_CONFIGURATION.load(VMS("Chemnitz"))
         //ECHTZEYT_CONFIGURATION.load(CVAG())
         ECHTZEYT_CONFIGURATION.load(VMSandCVAG())
-        ECHTZEYT_CONFIGURATION.activityMap = MapActivity::class.java
+        //ECHTZEYT_CONFIGURATION.activityMap = MapActivity::class.java
     }
 
     override fun addMOTTypeBadges() {
