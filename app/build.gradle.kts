@@ -10,8 +10,8 @@ android {
         applicationId = "com.maddin.cvagechtzeit"
         minSdk = 21
         targetSdk = compileSdk
-        versionCode = 11
-        versionName = "2.2.0"
+        versionCode = 15
+        versionName = "2.2.3"
         multiDexEnabled = true
 
         vectorDrawables {
